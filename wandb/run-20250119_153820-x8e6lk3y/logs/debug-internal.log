@@ -1,0 +1,20 @@
+{"time":"2025-01-19T15:38:21.465567+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.4","symlink path":"/Users/sahil/Programs/projects/MSA/wandb/run-20250119_153820-x8e6lk3y/logs/debug-core.log"}
+{"time":"2025-01-19T15:38:21.884735+05:30","level":"INFO","msg":"created new stream","id":"x8e6lk3y"}
+{"time":"2025-01-19T15:38:21.884791+05:30","level":"INFO","msg":"stream: started","id":"x8e6lk3y"}
+{"time":"2025-01-19T15:38:21.884846+05:30","level":"INFO","msg":"handler: started","stream_id":"x8e6lk3y"}
+{"time":"2025-01-19T15:38:21.884969+05:30","level":"INFO","msg":"sender: started","stream_id":"x8e6lk3y"}
+{"time":"2025-01-19T15:38:21.884873+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"x8e6lk3y"}
+{"time":"2025-01-19T15:38:22.341352+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-19T15:38:37.065758+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-19T15:38:51.892401+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-19T15:38:51.933995+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-19T15:38:52.030835+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-19T15:38:52.032135+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-19T15:38:52.228854+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-19T15:38:52.342564+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-19T15:38:53.168742+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-19T15:38:53.17464+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-19T15:38:54.952464+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-19T15:39:21.137205+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-19T15:39:33.285971+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-19T15:39:33.302737+05:30","level":"INFO","msg":"Pausing system monitor"}

@@ -1,0 +1,40 @@
+{
+  "os":  "macOS-15.1.1-arm64-arm-64bit",
+  "python":  "CPython 3.12.2",
+  "startedAt":  "2025-01-19T10:08:21.463545Z",
+  "program":  "/Users/sahil/Programs/projects/MSA/IMDB.ipynb",
+  "codePath":  "IMDB.ipynb",
+  "email":  "sahilp.officio@gmail.com",
+  "root":  "/Users/sahil/Programs/projects/MSA",
+  "host":  "Sahils-MacBook-Air.local",
+  "executable":  "/Users/sahil/miniconda3/bin/python",
+  "codePathLocal":  "IMDB.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "245107195904",
+      "used":  "102252204032"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "245107195904",
+      "used":  "102252204032"
+    }
+  },
+  "memory":  {
+    "total":  "8589934592"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Apple M2",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  8,
+    "memoryGb":  8,
+    "swapTotalBytes":  "3221225472",
+    "ramTotalBytes":  "8589934592"
+  }
+}
